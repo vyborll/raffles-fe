@@ -1,0 +1,15 @@
+html,
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #151719;
+  /* color: #d9e3ea; */
+  color: #fff;
+}
+
+body::-webkit-scrollbar {
+  display: none;
+}
+
+body {
+  -ms-overflow-style: none;
+}
